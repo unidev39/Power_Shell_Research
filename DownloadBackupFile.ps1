@@ -1,16 +1,3 @@
-#########################################################################################
-# Eightsquare Pvt. Ltd. Nepal its affiliates. All rights reserved. 
-# File         : DounloadbackupFile.ps1
-# Purpose      : To Pull the Backup File from Linux - (ftp) to Windows
-# Usage        : ./DounloadbackupFile.ps1
-# Created By   : Devesh Kumar Shrivastav
-# Created Date : March 25, 2019
-# Review By    : Suman Pantha
-# Review Date  : March 25, 2019
-# Purpose      : POC on UNIX automation of Backup File Pull process
-# Revision     : 1.0
-#########################################################################################
-
 ################BOF This is part of the DounloadbackupFile#################
 
 # To export the FTP Server Information
